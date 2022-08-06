@@ -12,7 +12,7 @@ img{
     width: 500px;
     background-color: darkgreen;
     padding: 50px;
-    border: 2px solid blue;
+    border: 5px solid blue;
 }
 #spanId{
     font-size: 38px;
